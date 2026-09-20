@@ -12,8 +12,7 @@ import io
 
 # ===== НАСТРОЙКИ =====
 # Вставьте сюда публичную ссылку на ваш файл с Яндекс.Диска
-YANDEX_DISK_PUBLIC_LINK = "ВАША_ПУБЛИЧНАЯ_ССЫЛКА_СЮДА"
-
+YANDEX_DISK_PUBLIC_LINK = "https://disk.yandex.ru/i/FHAn8Ecc0Q5u0w"
 st.set_page_config(
     page_title="Дашборд ТСН «Солнечный»",
     page_icon="🏠",
