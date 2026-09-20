@@ -1,1 +1,10 @@
+[project]
+name = "tsn-dashboard"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "openpyxl",
+]
 
+[tool.streamlit]
+headless = true
