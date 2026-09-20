@@ -8,7 +8,7 @@ import pandas as pd
 from datetime import datetime, date
 
 # ===== НАСТРОЙКИ =====
-EXCEL_FILE = "TCH.xlsx"
+EXCEL_FILE = "tsn.xlsx"
 
 st.set_page_config(
     page_title="Дашборд ТСН «Солнечный»",
